@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "cardTitle": "FREE",
+      "cardPrice": "$0",
+      "period": "/month",
+      "items": [
+        "Single User",
+        "5GB Storage",
+        "Unlimited Public Projects",
+        "Community Access",
+        "Unlimited Private Projects",
+        "Dedicated Phone Support",
+        "Free Subdomain",
+        "Monthly Status Reports"
+      ]
+    },
+    {
+      "id": 2,
+      "cardTitle": "PLUS",
+      "cardPrice": "$9",
+      "period": "/month",
+      "items": [
+          "5 Users",
+          "50GB Storage",
+          "Unlimited Public Projects",
+          "Community Access",
+          "Unlimited Private Projects",
+          "Dedicated Phone Support",
+          "Free Subdomain",
+          "Monthly Status Reports"
+      ]
+    },
+    {"id": 3,
+    "cardTitle": "PRO",
+    "cardPrice": "$49",
+    "period": "/month",
+    "items": [
+      "Unlimited Users",
+      "150GB Storage",
+      "Unlimited Public Projects",
+      "Community Access",
+      "Unlimited Private Projects",
+      "Dedicated Phone Support",
+      "Unlimited Free Subdomains",
+      "Monthly Status Reports"
+    ]}
+  ]
+  
