@@ -1,0 +1,74 @@
+[
+  {
+    "productID": 1,
+    "productSale": false,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Fancy Product",
+    "productReviews": 0,
+    "productPrice": ["40.00", "80.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 2,
+    "productSale": true,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Special Item",
+    "productReviews": 5,
+    "productPrice": ["20.00", "18.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 3,
+    "productSale": true,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Sale Item",
+    "productReviews": 0,
+    "productPrice": ["50.00", "25.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 4,
+    "productSale": false,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Popular Item",
+    "productReviews": 5,
+    "productPrice": ["40.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 5,
+    "productSale": true,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Sale Item",
+    "productReviews": 0,
+    "productPrice": ["50.00", "25.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 6,
+    "productSale": false,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Fancy Product",
+    "productReviews": 0,
+    "productPrice": ["120.00", "280.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 7,
+    "productSale": true,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Special Item",
+    "productReviews": 5,
+    "productPrice": ["20.00", "18.00"],
+    "isVisible": true
+  },
+  {
+    "productID": 8,
+    "productSale": false,
+    "productImg": "https://dummyimage.com/450x300/dee2e6/6c757d.jpg",
+    "productName": "Popular Item",
+    "productReviews": 5,
+    "productPrice": ["40.00"],
+    "isVisible": true
+  }
+]
